@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "sleekLoad 2";
+var l_serverName = "NimbusGaming";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -135,7 +135,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"This server is still in development.",
 ];
 
 // Random message order?
